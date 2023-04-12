@@ -25,8 +25,7 @@ export default {
   data() {
     return {
       tasks: [],
-      showAddTask: false,
-      W_data: false
+      showAddTask: false
     }
   },
   methods: {
